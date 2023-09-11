@@ -10,7 +10,7 @@ class Item_01 {
         };
         ~Item_01() {};
 
-        // properties
+        // properties -------
         string name = "";
         int id = 0;
 
