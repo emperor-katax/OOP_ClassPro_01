@@ -3,7 +3,7 @@
 using namespace std;
 
 class Item_01 {
-        // con/des    
+        // con/des -------    
     public:
         Item_01() {
             cout << " .... ##  Item_01 constructor " << endl;
